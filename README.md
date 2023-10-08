@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vancesec
+- 👋 Hi, I’m @vance  
 - 👀 I’m interested in cyber
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning dsa
+- 📫 How to reach me
+-  https://twitter.com/v4nc3s3c
 
 <!---
 vancesec/vancesec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
